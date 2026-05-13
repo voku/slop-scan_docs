@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">slop-scan docs social preview</title>
+  <desc id="desc">Social preview card for slop-scan docs with the product name and PHP analysis tagline.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#020617" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <rect x="72" y="72" width="1056" height="486" rx="32" fill="#111827" stroke="#1f2937" stroke-width="2" />
+  <rect x="118" y="118" width="146" height="146" rx="24" fill="#10b981" />
+  <text x="154" y="208" fill="#ecfdf5" font-size="72" font-family="Inter, Arial, sans-serif" font-weight="800">SL</text>
+  <text x="312" y="192" fill="#f8fafc" font-size="84" font-family="Inter, Arial, sans-serif" font-weight="800">slop-scan docs</text>
+  <text x="312" y="272" fill="#cbd5e1" font-size="34" font-family="Inter, Arial, sans-serif" font-weight="500">Deterministic PHP analysis documentation and workflow examples.</text>
+  <text x="118" y="382" fill="#34d399" font-size="30" font-family="JetBrains Mono, monospace">vendor/bin/slop-scan --path src/ --json --github</text>
+  <text x="118" y="450" fill="#e2e8f0" font-size="30" font-family="Inter, Arial, sans-serif">Rules • baselines • CI • agent remediation</text>
+  <rect x="118" y="492" width="312" height="20" rx="10" fill="#10b981" opacity="0.95" />
+  <rect x="454" y="492" width="184" height="20" rx="10" fill="#334155" />
+  <rect x="662" y="492" width="248" height="20" rx="10" fill="#1e293b" />
+</svg>

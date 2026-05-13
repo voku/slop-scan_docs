@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">slop-scan favicon</title>
+  <desc id="desc">A dark square with the letters SL and an emerald scan line.</desc>
+  <rect width="64" height="64" rx="14" fill="#0f172a" />
+  <path d="M14 22h36" stroke="#10b981" stroke-width="4" stroke-linecap="round" />
+  <path d="M14 42h26" stroke="#10b981" stroke-width="4" stroke-linecap="round" opacity="0.45" />
+  <text x="14" y="38" fill="#f8fafc" font-size="21" font-family="Inter, Arial, sans-serif" font-weight="700">SL</text>
+</svg>
