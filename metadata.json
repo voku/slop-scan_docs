@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
+  "name": "slop-scan docs",
+  "description": "Static documentation site for voku/slop-scan with workflow snippets and deployment-ready metadata.",
   "requestFramePermissions": [],
   "majorCapabilities": []
 }
