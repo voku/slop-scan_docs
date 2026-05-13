@@ -213,7 +213,7 @@ export default function App() {
             $ slop-scan scan ./src --lint
           </div>
           <div className="text-xs text-slate-500 italic font-mono">
-            // Supports PHP 8.3+, JSON, TOON, NDJSON, GitHub Actions
+            // Supports PHP 8.3+, JSON, Text, NDJSON, GitHub Actions
           </div>
         </div>
       </div>
@@ -388,4 +388,3 @@ export default function App() {
     </div>
   );
 }
-
